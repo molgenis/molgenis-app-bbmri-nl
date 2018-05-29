@@ -18,6 +18,7 @@
             <plugin id="menumanager" name="Menu Manager" url="menumanager"/>
             <plugin id="thememanager" name="Theme Manager" url="thememanager"/>
             <plugin id="indexmanager" name="Index manager" url="indexmanager"/>
+            <plugin id="jobs" name="Job overview" url="jobs" />
             <plugin id="logmanager" name="Log manager" url="logmanager"/>
             <plugin id="settingsmanager" name="Settings" url="settingsmanager"/>
         </menu>
